@@ -1,0 +1,6 @@
+@TCC.Servidor.Metro.API_HostAddress = http://localhost:5224
+
+GET {{TCC.Servidor.Metro.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
