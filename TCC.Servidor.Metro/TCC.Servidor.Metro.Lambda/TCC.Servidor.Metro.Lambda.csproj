@@ -6,9 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="FaceAiSharp" Version="0.5.23" />
-    <PackageReference Include="FaceAiSharp.Bundle" Version="0.5.23" />
-  </ItemGroup>
-
 </Project>
