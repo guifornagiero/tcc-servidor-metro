@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FaceAiSharp" Version="0.5.23" />
+    <PackageReference Include="FaceAiSharp.Bundle" Version="0.5.23" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
